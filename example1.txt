@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+ hello world welcome to India
+ Hello welcome to dell hyd
+=======
 hello world welcome to India
+>>>>>>> origin/master
